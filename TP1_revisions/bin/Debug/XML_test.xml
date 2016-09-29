@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Dossiers>
+    <Dossier>
+      <nom>Botte</nom>
+      <prenom>Valentin</prenom>
+      <ddn>
+        <jour>23</jour>
+        <mois>06</mois>
+        <annee>1997</annee>
+      </ddn>
+    </Dossier>
+    <Dossier>
+      <nom>Grandin</nom>
+      <prenom>Valentin</prenom>
+      <ddn>
+        <jour>23</jour>
+        <mois>06</mois>
+        <annee>1997</annee>
+      </ddn>
+      <Prestations>
+        <prestation>
+          <libelle>prestationgdn</libelle>
+          <datesoin>
+            <jour>26</jour>
+            <mois>05</mois>
+            <annee>2013</annee>
+			<heure>05</heure>
+            <minute>26</minute>
+            <seconde>52</seconde>
+          </datesoin>
+          <intervenant id="5"></intervenant>
+        </prestation>
+      </Prestations>
+    </Dossier>
+    <Dossier>
+      <nom>Nicoli</nom>
+      <prenom>romain</prenom>
+      <ddn>
+        <jour>15</jour>
+        <mois>03</mois>
+        <annee>1996</annee>
+      </ddn>
+      <Prestations>
+        <prestation>
+          <libelle>rdv avec jonathan</libelle>
+          <datesoin>
+            <jour>15</jour>
+            <mois>06</mois>
+            <annee>2012</annee>
+			<heure>15</heure>
+            <minute>26</minute>
+            <seconde>54</seconde>
+          </datesoin>
+          <intervenant id="3"></intervenant>
+        </prestation>
+        <prestation>
+          <libelle>rdv avec David</libelle>
+          <datesoin>
+            <jour>15</jour>
+            <mois>06</mois>
+            <annee>2012</annee>
+			<heure>16</heure>
+            <minute>28</minute>
+            <seconde>15</seconde>
+          </datesoin>
+          <intervenant id="4"></intervenant>
+        </prestation>
+        <prestation>
+          <libelle>rdv avec David bis</libelle>
+          <datesoin>
+            <jour>17</jour>
+            <mois>06</mois>
+            <annee>2012</annee>
+			<heure>12</heure>
+            <minute>43</minute>
+            <seconde>26</seconde>
+          </datesoin>
+          <intervenant id="4"></intervenant>
+        </prestation>
+      </Prestations>
+    </Dossier>
+  </Dossiers>
+  <Intervenants>
+    <intervenant id="3">
+      <nom> Molinari </nom>
+      <prenom> David </prenom>
+    </intervenant>
+    <intervenant id="4">
+      <nom> Lanuzel </nom>
+      <prenom> Jonathan </prenom>
+    </intervenant>
+    <intervenantExterne id="5">
+      <nom> Rammus </nom>
+      <prenom> Julien </prenom>
+      <specialite> les dieux </specialite>
+      <adresse>
+        <rue> 71 rue du roseau </rue>
+        <ville> Marseille </ville>
+        <cp> 13000 </cp>
+      </adresse>
+      <tel> 0606060606 </tel>
+    </intervenantExterne>
+  </Intervenants>
+</root>

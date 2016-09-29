@@ -1,0 +1,6 @@
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\bin\Debug\TP1_revisions.exe.config
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\bin\Debug\TP1_revisions.exe
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\bin\Debug\TP1_revisions.pdb
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\obj\Debug\TP1_revisions.csprojResolveAssemblyReference.cache
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\obj\Debug\TP1_revisions.exe
+c:\users\raimon.d\documents\visual studio 2015\Projects\TP1_revisions\TP1_revisions\obj\Debug\TP1_revisions.pdb
